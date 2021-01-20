@@ -1,0 +1,223 @@
+{
+    "splash_screens": {
+        "screens": {
+            "pin_correct": {
+                "elements": [
+                    {
+                        "height": 346,
+                        "width": 398,
+                        "offset_x": 761,
+                        "offset_y": 300,
+                        "path": "icon_1697.svg",
+                        "type": "icon"
+                    },
+                    {
+                        "font_size": 66,
+                        "line_spacing": -13,
+                        "align": "center",
+                        "letter_spacing": 0,
+                        "label": "pin_correct",
+                        "height": 200,
+                        "width": 1920,
+                        "offset_x": 0,
+                        "offset_y": 650,
+                        "font": "GT Pressura Light",
+                        "type": "text",
+                        "color": "0xFFFFFFFF"
+                    }
+                ],
+                "background": {
+                    "path": "background_2478.jpg"
+                },
+                "layout_type": "free_form"
+            },
+            "pin_entry": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "virtual_reception_conference_id_invalid": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "error_insufficient_licenses": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "streaming_in_progress": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "other_participants_audio_only": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "inlobby_status_unknown": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "pin_welcome": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "error_capacity_exceeded": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "error_insufficient_video_licenses": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "pin_invalid": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "connecting": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "virtual_reception_welcome": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "welcome": {
+                "elements": [
+                    {
+                        "height": 346,
+                        "width": 398,
+                        "offset_x": 761,
+                        "offset_y": 298,
+                        "path": "icon_1697.svg",
+                        "type": "icon"
+                    },
+                    {
+                        "font_size": 66,
+                        "line_spacing": -13,
+                        "align": "center",
+                        "letter_spacing": 0,
+                        "label": "label_0",
+                        "height": 200,
+                        "width": 1920,
+                        "offset_x": 0,
+                        "offset_y": 667,
+                        "font": "GT Pressura Light",
+                        "type": "text",
+                        "color": "0xFFFFFFFF"
+                    }
+                ],
+                "background": {
+                    "path": "background_2478.jpg"
+                },
+                "layout_type": "free_form"
+            },
+            "virtual_reception_conference_id_entry": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "waiting_for_host": {
+                "elements": [
+                    {
+                        "height": 346,
+                        "width": 398,
+                        "offset_x": 761,
+                        "offset_y": 261,
+                        "path": "icon_1697.svg",
+                        "type": "icon"
+                    },
+                    {
+                        "font_size": 66,
+                        "line_spacing": -13,
+                        "align": "center",
+                        "letter_spacing": 0,
+                        "label": "label_1",
+                        "height": 200,
+                        "width": 1920,
+                        "offset_x": 0,
+                        "offset_y": 650,
+                        "font": "GT Pressura Light",
+                        "type": "text",
+                        "color": "0xFFFFFFFF"
+                    }
+                ],
+                "background": {
+                    "path": "background_2478.jpg"
+                },
+                "layout_type": "free_form"
+            },
+            "no_presentation": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "virtual_reception_connecting": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "timeout": {
+                "elements": [
+                    {
+                        "height": 300,
+                        "width": 300,
+                        "offset_x": 810,
+                        "offset_y": 304,
+                        "path": "icon_1420.svg",
+                        "type": "icon"
+                    },
+                    {
+                        "font_size": 66,
+                        "line_spacing": -13,
+                        "align": "center",
+                        "letter_spacing": 0,
+                        "label": "label_2",
+                        "height": 200,
+                        "width": 1920,
+                        "offset_x": 0,
+                        "offset_y": 652,
+                        "font": "GT Pressura Light",
+                        "type": "text",
+                        "color": "0xFFFFFFFF"
+                    }
+                ],
+                "background": {
+                    "path": "background_2478.jpg"
+                },
+                "layout_type": "free_form"
+            },
+            "error_invalid_license": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "inlobby": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            },
+            "stream_waiting": {
+                "background": {
+                    "path": "background_2478.jpg"
+                }
+            }
+        },
+        "labels": {
+            "label_0": "We will be with you shortly",
+            "label_1": "Welcome! We will be with you shortly...",
+            "label_2": "Time exceeded - Session has Timed-Out"
+        }
+    },
+    "theme_version": 2,
+    "disable_watermark_icon": false
+}
